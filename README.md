@@ -1,5 +1,5 @@
 ## Olá, eu sou Mateus-Alencar
-🌱 Atualmente eu estudo Análise e desenvolvimento de sistemas<br>
+🌱 Atualmente eu estudo Ciência da Computação e já tenho um curso técnico em Análise e Desenvolviemnto de sistemas<br>
 📫 Contate-me no email: mateus.alencar1@outlook.com
 
 
