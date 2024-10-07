@@ -6,8 +6,9 @@
 💼 Principais habilidades:
 
 Desenvolvimento em Python, C#, JavaScript, PHP e SQL.
-Experiência em GitHub para controle de versão e colaboração.
-Entusiasta de Arduino para projetos de automação e prototipagem.
+Desenvolvimento de banco de dados e otimização de consultas.
+Foco no back-end, implementando lógicas de negócios robustas e integração com bancos de dados.
+
 📫 Entre em contato: mateus.alencar1@outlook.com
 
 🚀 Atualmente aprendendo:
