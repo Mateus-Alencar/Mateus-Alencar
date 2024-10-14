@@ -9,7 +9,7 @@ Desenvolvimento em Python, C#, JavaScript, PHP e SQL.
 Desenvolvimento de banco de dados e otimização de consultas.
 Foco no back-end, implementando lógicas de negócios robustas e integração com bancos de dados.
 
-📫 Entre em contato: mateus.alencar1@outlook.com
+📫 Entre em contato: mateus.alencar3182@outlook.com
 
 🚀 Atualmente aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
