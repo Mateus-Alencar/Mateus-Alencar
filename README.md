@@ -17,9 +17,6 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos de
 [mateus.alencar3182@outlook.com](mailto:mateus.alencar3182@outlook.com)
 
 
-🚀 Atualmente aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-
 
 ⚡ GitHub Stats:
 <div> <a href="https://github.com/Mateus-Alencar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
