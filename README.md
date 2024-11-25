@@ -1,5 +1,5 @@
 👋 Olá, eu sou Mateus Alencar
-🌱 Cursando Ciência da Computação com formação técnica em Análise e Desenvolvimento de Sistemas. Tenho uma paixão por aprendizado contínuo e por me manter atualizado com as novas tecnologias.
+ Cursando Ciência da Computação com formação técnica em Análise e Desenvolvimento de Sistemas. Tenho uma paixão por aprendizado contínuo e por me manter atualizado com as novas tecnologias.
 
 🎯 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores, com foco em desenvolvimento de software, automação e soluções tecnológicas inovadoras.
 
@@ -17,4 +17,4 @@ Foco no back-end, implementando lógicas de negócios robustas e integração co
 ⚡ GitHub Stats:
 <div> <a href="https://github.com/Mateus-Alencar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
 
-🔗 Conecte-se comigo no LinkedIn para acompanhar meus projetos e evolução.
+[🔗 Conecte-se comigo no LinkedIn para acompanhar meus projetos e evolução.](https://br.linkedin.com/in/mateus-alencar-50005b287?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
