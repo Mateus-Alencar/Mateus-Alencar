@@ -1,15 +1,21 @@
-👋 Olá, eu sou Mateus Alencar
- Cursando Ciência da Computação com formação técnica em Análise e Desenvolvimento de Sistemas. Tenho uma paixão por aprendizado contínuo e por me manter atualizado com as novas tecnologias.
+# 👋 Olá, eu sou **Mateus Alencar**
 
-🎯 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores, com foco em desenvolvimento de software, automação e soluções tecnológicas inovadoras.
+Atualmente, estou cursando **Ciência da Computação** e tenho formação técnica em **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por **aprendizado contínuo** e sempre busco me manter atualizado com as novas tecnologias.
 
-💼 Principais habilidades:
+## 🎯 Objetivo
 
-Desenvolvimento em Python, C#, JavaScript, PHP e SQL.
-Desenvolvimento de banco de dados e otimização de consultas.
-Foco no back-end, implementando lógicas de negócios robustas e integração com bancos de dados.
+Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos desafiadores**, com foco em **desenvolvimento de software**, **automação** e soluções **tecnológicas inovadoras**.
 
-📫 Entre em contato: mateus.alencar3182@outlook.com
+## 💼 Principais Habilidades
+
+- Desenvolvimento em **Python**, **C#**, **JavaScript**, **PHP** e **SQL**.
+- Criação e **otimização de bancos de dados** e consultas.
+- Foco em **back-end**, implementando lógicas de negócios robustas e integração com bancos de dados.
+
+## 📫 Entre em contato
+
+[mateus.alencar3182@outlook.com](mailto:mateus.alencar3182@outlook.com)
+
 
 🚀 Atualmente aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
