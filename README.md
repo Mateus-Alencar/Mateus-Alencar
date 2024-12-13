@@ -14,7 +14,7 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos de
 
 ## 📫 Entre em contato
 
-[mateus.alencar3182@outlook.com](mailto:mateusalencar195@gmail.com)
+[mateusalencar195@gmail.com](mailto:mateusalencar195@gmail.com)
 
 
 
