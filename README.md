@@ -10,7 +10,7 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos de
 
 - Desenvolvimento em **Python**, **C#**, **JavaScript**, **PHP** e **SQL**.
 - Criação e **otimização de bancos de dados** e consultas.
-- Foco em **back-end**, implementando lógicas de negócios robustas e integração com bancos de dados.
+- Foco em **back-end**.
 
 ## 📫 Entre em contato
 
