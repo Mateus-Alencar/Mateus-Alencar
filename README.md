@@ -6,7 +6,7 @@ Atualmente, estou cursando **Ciência da Computação** e tenho formação técn
 
 Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos desafiadores**, com foco em **desenvolvimento de software**, **automação** e soluções **tecnológicas inovadoras**.
 
-## 💼 Principais Habilidades
+## 💼 Principais Habilidades:
 
 - Desenvolvimento em **Python**, **C#**, **JavaScript**, **PHP** e **SQL**.
 - Criação e **otimização de bancos de dados** e consultas.
