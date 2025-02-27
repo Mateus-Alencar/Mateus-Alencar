@@ -8,7 +8,7 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos de
 
 ## 💼 Principais Habilidades:
 
-- Desenvolvimento em **Python**, **C#**, **JavaScript**, **PHP** e **SQL**.
+- Desenvolvimento em **Python**, **C#**, **Java**, **JavaScript**, **PHP** e **SQL**.
 - Criação e **otimização de bancos de dados** e consultas.
 - Foco em **back-end**.
 
