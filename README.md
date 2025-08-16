@@ -12,12 +12,6 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos de
 - Criação e **otimização de bancos de dados** e consultas
 - Foco em **back-end**
 
-## 📫 Entre em contato
-
-[mateusalencar195@gmail.com](mailto:mateusalencar195@gmail.com)
-
-
-
 ⚡ GitHub Stats:
 <div> <a href="https://github.com/Mateus-Alencar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
 
