@@ -4,7 +4,7 @@ Atualmente, estou cursando **Ciência da Computação** e tenho formação técn
 
 ## 🎯 Objetivo
 
-Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos desafiadores**, com foco em **desenvolvimento de software**, **automação** e soluções **tecnológicas inovadoras**.
+Atuo na área de TI, com foco em desenvolvimento de software, automação e soluções tecnológicas inovadoras.
 
 ## 💼 Principais Habilidades:
 
