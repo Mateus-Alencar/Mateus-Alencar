@@ -10,7 +10,8 @@ Atuo na área de TI, com foco em desenvolvimento de software, automação e solu
 
 - Desenvolvimento em **Python**, **C#**, **Java**, **JavaScript**, **PHP** e **SQL**.
 - Criação e **otimização de bancos de dados** e consultas
-- Foco em **back-end**
+- Criação e gerenciamento de **containers Docker**  
+- Configuração e execução de **Docker Compose** para ambientes multi-container  
 
 ⚡ GitHub Stats:
 <div> <a href="https://github.com/Mateus-Alencar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
