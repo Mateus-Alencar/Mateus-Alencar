@@ -35,7 +35,7 @@ automação e soluções escaláveis.
 -   Otimização de consultas\
 -   MySQL, PostgreSQL, SQL Server
 
-### 🐳 Containers & DevOps
+### 🐳 DevOps
 
 - Criação e gerenciamento de **containers Docker**
 - Configuração e execução de **Docker Compose**
