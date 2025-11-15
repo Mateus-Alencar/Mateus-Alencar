@@ -46,15 +46,11 @@ automação e soluções escaláveis.
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
+<div> 
+<a href="https://github.com/Mateus-Alencar"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 
-anuraghazra/github-readme-stats
-
-<div>
-
-`<a href="https://github.com/Mateus-Alencar">`{=html}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>`{=html}
-`</a>`{=html}
-
+</a> 
 </div>
 
 ------------------------------------------------------------------------
