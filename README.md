@@ -1,19 +1,69 @@
 # 👋 Olá, eu sou **Mateus Alencar**
 
-Atualmente, estou cursando **Ciência da Computação** e tenho formação técnica em **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por **aprendizado contínuo** e sempre busco me manter atualizado com as novas tecnologias.
+Sou profissional de Tecnologia da Informação atuando atualmente como
+**DevOps** na **Usina de Laticínios Jussara S/A (Jussara Laticínios)**.\
+Tenho formação técnica em **Análise e Desenvolvimento de Sistemas** e
+curso **Ciência da Computação**, sempre guiado pela paixão por
+aprendizado contínuo e melhoria constante.
 
-## 🎯 Objetivo
+Também estou cursando **Pós‑graduação em Ciências da Computação
+(UNIFRAN)**, aprofundando meus conhecimentos em infraestrutura,
+automação e soluções escaláveis.
 
-Atuo na área de TI, com foco em desenvolvimento de software, automação e soluções tecnológicas inovadoras.
+------------------------------------------------------------------------
 
-## 💼 Principais Habilidades:
+## 🚀 Sobre Mim
 
-- Desenvolvimento em **Python**, **C#**, **Java**, **JavaScript**, **PHP** e **SQL**.
-- Criação e **otimização de bancos de dados** e consultas
-- Criação e gerenciamento de **containers Docker**  
-- Configuração e execução de **Docker Compose** para ambientes multi-container  
+-   Atuando profissionalmente na área de **DevOps e Infraestrutura**\
+-   Experiência com **automação**, **pipelines**, **containers**,
+    integração e suporte em ambientes corporativos\
+-   Interesse crescente em arquitetura de sistemas, boas práticas de
+    desenvolvimento e observabilidade
 
-⚡ GitHub Stats:
-<div> <a href="https://github.com/Mateus-Alencar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> </div>
+------------------------------------------------------------------------
 
-[🔗](https://br.linkedin.com/in/mateus-alencar-50005b287?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) Conecte-se comigo no LinkedIn para acompanhar meus projetos e evolução.
+## 💼 Principais Habilidades
+
+### 🧑‍💻 Linguagens & Desenvolvimento
+
+-   **Python**, **C#**, **Java**, **JavaScript**, **PHP**, **SQL**
+-   Desenvolvimento de APIs, scripts de automação e aplicações backend
+
+### 🗄️ Bancos de Dados
+
+-   Modelagem relacional\
+-   Otimização de consultas\
+-   MySQL, PostgreSQL, SQL Server
+
+### 🐳 Containers & DevOps
+
+- Criação e gerenciamento de **containers Docker**
+- Configuração e execução de **Docker Compose**
+- Estudando e praticando **Kubernetes** (deployments, services, pods e ferramentas do ecossistema)
+- Aprimorando conhecimentos em **Jenkins** para criação de pipelines CI/CD
+- Automação de ambientes, padronização e controle de configuração
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+anuraghazra/github-readme-stats
+
+<div>
+
+`<a href="https://github.com/Mateus-Alencar">`{=html}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Alencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>`{=html}
+`</a>`{=html}
+
+</div>
+
+------------------------------------------------------------------------
+
+## 🌐 Conecte-se comigo
+
+🔗 **LinkedIn:** [Clique
+aqui](https://br.linkedin.com/in/mateus-alencar-50005b287)
+
+------------------------------------------------------------------------
+
+🛠️ *Sempre construindo, aprendendo e evoluindo.*
