@@ -59,6 +59,10 @@ Também estou cursando **Pós-graduação em Ciências da Computação (UNIFRAN)
 
 <img src="./github-metrics.svg" />  
 
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Alencar&theme=github_dark)
+
+
+
 ------------------------------------------------------------------------
 
 ## 🌐 Conecte-se comigo
