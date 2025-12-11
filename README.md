@@ -38,46 +38,23 @@ Também estou cursando **Pós-graduação em Ciências da Computação (UNIFRAN)
 ## 💼 Principais Habilidades
 
 ### 🧑‍💻 Linguagens & Desenvolvimento
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <span>🐍 Python</span><br>
-  <span>☕ Java</span><br>
-  <span>💎 C#</span><br>
-  <span>🟨 JavaScript</span><br>
-  <span>🐘 PHP</span><br>
-  <span>🗄️ SQL</span><br>
-</div>
+- Python | Ansible | Java | C# | JavaScript | PHP | SQL
 
 - Desenvolvimento de **APIs**, scripts de automação e aplicações backend
 - Boas práticas de programação e design patterns
 
 ### 🗄️ Bancos de Dados
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <span>🐬 MySQL</span><br>
-  <span>🟦 PostgreSQL</span><br>
-  <span>🟩 SQL Server</span><br>
-</div>
-
 - Modelagem relacional e otimização de consultas
 - Administração de bancos e integração com aplicações
 
 ### 🐳 DevOps & Containers
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <span>🐳 Docker</span>
-  <span>📦 Docker Compose</span>
-  <span>☸️ Kubernetes</span>
-  <span>⚙️ Jenkins</span>
-</div>
-
-- Criação e gerenciamento de containers e ambientes
-- Automação, CI/CD e padronização de processos
-- Experiência com deployments, services e pods no Kubernetes
+- Criação e gerenciamento de containers e ambientes com **Docker**
+- Automação, CI/CD e padronização de processos com pipelines em **Ansible**
+- Experiência com gerenciamento de clusters com **Kubernetes**
 
 ---
-
 <div align="center">
 
-  <br><br>
-  
   ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Alencar&theme=github_dark)
   
 </div>
@@ -89,8 +66,7 @@ Também estou cursando **Pós-graduação em Ciências da Computação (UNIFRAN)
 
 ## 🌐 Conecte-se comigo
 
-🔗 **LinkedIn:** [Clique
-aqui](https://br.linkedin.com/in/mateus-alencar-50005b287)
+🔗 **LinkedIn:** [https://br.linkedin.com/in/mateus-alencar-50005b287](https://br.linkedin.com/in/mateus-alencar-50005b287)
 
 ------------------------------------------------------------------------
 
