@@ -29,7 +29,7 @@ Também estou cursando **Pós-graduação em Ciências da Computação (UNIFRAN)
 
 -   Atuando profissionalmente na área de **DevOps e Infraestrutura**
 -   Experiência com **automação**, **pipelines**, **containers**,
-    integração e suporte em ambientes corporativos\
+    integração e suporte em ambientes corporativos
 -   Interesse crescente em arquitetura de sistemas, boas práticas de
     desenvolvimento e observabilidade
 
