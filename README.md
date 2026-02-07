@@ -59,9 +59,6 @@ Também estou cursando **Ciências da Computação (UNIFRAN)**, aprofundando meu
   
 </div>
 
-
-
-
 ------------------------------------------------------------------------
 
 ## 🌐 Conecte-se comigo
@@ -69,5 +66,9 @@ Também estou cursando **Ciências da Computação (UNIFRAN)**, aprofundando meu
 🔗 **LinkedIn:** [https://br.linkedin.com/in/mateus-alencar-50005b287](https://br.linkedin.com/in/mateus-alencar-50005b287)
 
 ------------------------------------------------------------------------
+<div align="center">
+<img src="https://camo.githubusercontent.com/078d85717696efd030d9ea5788ffb1e0e2af3f9fb743852fb8ce462643f2be7d/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b26626f726465723d74727565"
+/>
+</div>
 
-🛠️ *Sempre construindo, aprendendo e evoluindo.*
+<img src="https://camo.githubusercontent.com/726c6df8946e2fd266a95242c5a90d914bc1c1e699f2b521f8475782379884fd/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3137463737442677696474683d343335266c696e65733d2f2f466f692b756d2b7072617a65722b7465722b766f632543332541412b706f722b61717569213b2f2f566f6c74652b73656d70726521">
