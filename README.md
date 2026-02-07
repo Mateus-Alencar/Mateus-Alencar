@@ -10,7 +10,7 @@ Sou profissional de Tecnologia da Informação atuando atualmente como
   
 Tenho formação técnica em **Análise e Desenvolvimento de Sistemas** e curso **Ciência da Computação**, sempre guiado pela paixão por aprendizado contínuo e melhoria constante.
 
-Também estou cursando **Pós-graduação em Ciências da Computação (UNIFRAN)**, aprofundando meus conhecimentos em infraestrutura, automação e soluções escaláveis.
+Também estou cursando **Ciências da Computação (UNIFRAN)**, aprofundando meus conhecimentos em infraestrutura, automação e soluções escaláveis.
 
 </td>
 <td align="center" width="350">
