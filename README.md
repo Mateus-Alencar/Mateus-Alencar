@@ -39,9 +39,13 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
 
 ### 🧑‍💻 Linguagens & Desenvolvimento
 - Python | Ansible | Java | C# | JavaScript | PHP | SQL
-
 - Desenvolvimento de **APIs**, scripts de automação e aplicações backend
 - Boas práticas de programação e design patterns
+
+📊 Observabilidade & Monitoramento
+- Monitoramento de infraestrutura com Zabbix
+- Criação de dashboards e visualização de métricas com Grafana
+- Análise de métricas e apoio na identificação de incidentes
 
 ### 🗄️ Bancos de Dados
 - Modelagem relacional e otimização de consultas
