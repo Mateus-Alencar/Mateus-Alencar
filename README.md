@@ -37,24 +37,24 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
 
 ## 💼 Principais Habilidades
 
-### 🧑‍💻 Linguagens & Desenvolvimento
-- Python | Ansible | Java | C# | JavaScript | PHP | SQL
-- Desenvolvimento de **APIs**, scripts de automação e aplicações backend
-- Boas práticas de programação e design patterns
+### 🧑‍💻 **Linguagens & Desenvolvimento**  
+- Python | Ansible | Java | C# | JavaScript | PHP | SQL  
+- Desenvolvimento de **APIs**, scripts de automação e aplicações backend  
+- Boas práticas de programação e design patterns  
 
-📊 Observabilidade & Monitoramento
-- Monitoramento de infraestrutura com Zabbix
-- Criação de dashboards e visualização de métricas com Grafana
-- Análise de métricas e apoio na identificação de incidentes
+📊 **Observabilidade & Monitoramento**  
+- Monitoramento de infraestrutura com **Zabbix**  
+- Criação de dashboards e visualização de métricas com **Grafana**  
+- Análise de métricas e apoio na identificação de incidentes  
 
-### 🗄️ Bancos de Dados
-- Modelagem relacional e otimização de consultas
-- Administração de bancos e integração com aplicações
+### 🗄️ **Bancos de Dados**  
+- Modelagem relacional e otimização de consultas  
+- Administração de bancos e integração com aplicações  
 
-### 🐳 DevOps & Containers
-- Criação e gerenciamento de containers e ambientes com **Docker**
-- Automação, CI/CD e padronização de processos com pipelines em **Ansible**
-- Experiência com gerenciamento de clusters com **Kubernetes**
+### 🐳 **DevOps & Containers**  
+- Criação e gerenciamento de containers e ambientes com **Docker**  
+- Automação, CI/CD e padronização de processos com pipelines em **Ansible**  
+- Experiência com gerenciamento de clusters com **Kubernetes**  
 
 ---
 <div align="center">
