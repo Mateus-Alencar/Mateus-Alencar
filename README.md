@@ -65,15 +65,8 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kubernetes,prometheus,jenkins,bash,python,ansible,java,php,mysql,grafana,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,prometheus,jenkins,ansible,python,java,php,cs,mysql,postgres,grafana,git" />
   </a>
-</div>
-
----
-<div align="center">
-
-  ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Alencar&theme=github_dark)
-  
 </div>
 
 ---
