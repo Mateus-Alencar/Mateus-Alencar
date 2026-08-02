@@ -34,6 +34,11 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
     desenvolvimento e observabilidade
 
 ------------------------------------------------------------------------
+## 📜 Certificações
+
+[![Linux Essentials](https://badgen.net)]([https://cs.lpi.org/caf/Xamman/certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000695959/de9rt6cgp2))
+
+---
 
 ## 💼 Principais Habilidades
 
@@ -57,13 +62,21 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
 - Experiência com gerenciamento de clusters com **Kubernetes**  
 
 ---
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,prometheus,jenkins,bash,python,ansible,java,php,mysql,grafana,docker" />
+  </a>
+</div>
+
+---
 <div align="center">
 
   ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Alencar&theme=github_dark)
   
 </div>
 
-------------------------------------------------------------------------
+---
 
 ## 🌐 Conecte-se comigo
 
