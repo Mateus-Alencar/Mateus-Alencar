@@ -36,7 +36,7 @@ Sempre em busca de aprimorar meus conhecimentos, aprofundando em infraestrutura,
 ------------------------------------------------------------------------
 ## 📜 Certificações
 
-[![Linux Essentials](https://badgen.net)]([https://cs.lpi.org/caf/Xamman/certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000695959/de9rt6cgp2))
+<a target="_blank" href="https://www.credly.com/badges/85241d00-75ee-4def-aec1-25fc290d69d2"><img height="100" width="100" alt="Linux Essentials" src="https://images.credly.com/size/340x340/images/009defc4-25a0-4d6f-8b2d-7fac9c7362f1/blob"/></a>
 
 ---
 
